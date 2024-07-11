@@ -5,6 +5,8 @@
 10 line second modified
 10 line changed another two lines
 10 line changed another two lines
+10 line changed two lines
+10 line changed two lines
 10 line
 10 line
 10 line
